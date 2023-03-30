@@ -1,0 +1,11 @@
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\bin\Debug\Tema 5.exe.config
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\bin\Debug\Tema 5.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\bin\Debug\Tema 5.pdb
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema_5.Form1.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema_5.Properties.Resources.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.csproj.GenerateResource.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 5\obj\Debug\Tema 5.pdb

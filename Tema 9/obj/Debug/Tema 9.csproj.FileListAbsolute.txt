@@ -1,0 +1,16 @@
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\MainWindow.g.cs
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\App.g.cs
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9_MarkupCompile.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9_MarkupCompile.lref
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\bin\Debug\Tema 9.exe.config
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\bin\Debug\Tema 9.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\bin\Debug\Tema 9.pdb
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\MainWindow.baml
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.g.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema_9.Properties.Resources.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.csproj.GenerateResource.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 9\obj\Debug\Tema 9.pdb

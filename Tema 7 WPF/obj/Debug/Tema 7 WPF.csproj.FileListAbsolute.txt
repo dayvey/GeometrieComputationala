@@ -1,0 +1,16 @@
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\bin\Debug\Tema 7 WPF.exe.config
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\bin\Debug\Tema 7 WPF.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\bin\Debug\Tema 7 WPF.pdb
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.csproj.AssemblyReference.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\MainWindow.g.cs
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\App.g.cs
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF_MarkupCompile.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF_MarkupCompile.lref
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\MainWindow.baml
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.g.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema_7_WPF.Properties.Resources.resources
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.csproj.GenerateResource.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.csproj.CoreCompileInputs.cache
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.exe
+D:\Facultate\Semestrul 2\Geometrie computationala\Tema 7 WPF\obj\Debug\Tema 7 WPF.pdb
